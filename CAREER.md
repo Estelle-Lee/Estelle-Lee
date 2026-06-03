@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 소개
+## 소개
 
 영국 글래스고 대학 소프트웨어 개발 석사 출신의 백엔드 엔지니어입니다. 복잡한 비즈니스 로직을 설계하고 시스템을 최적화하는 데 강점이 있으며, 차세대 학습 플랫폼(LXP) 구축과 이기종 DBMS 마이그레이션을 주도하며 **쿼리 성능을 85% 이상 개선**했습니다. FFMPEG 기반 미디어 프로세싱과 시스템 자동화 등 기술 난도가 높은 문제를 해결하며 안정적인 서비스 환경을 구축해왔고, 최신 AI 기술 트렌드를 실무 자동화와 미들웨어 최적화에 접목하기 위해 꾸준히 연구하고 있습니다.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 💼 경력
+## 경력
 
 ### 주식회사 디유넷 &nbsp;|&nbsp; 기술연구 · 개발연구직 대리 &nbsp;|&nbsp; 2024.06 ~ 재직중 (2년 11개월)
 
@@ -120,7 +120,7 @@
 
 ---
 
-## 🚀 주요 프로젝트 (대외 활동)
+## 주요 프로젝트 (대외 활동)
 
 ### HackSeoul 2025 (Coupang x AngelHack 주최) &nbsp;|&nbsp; 2025.11
 
@@ -133,11 +133,11 @@
 
 **사용 기술** &nbsp; `Python 3.12` `FastAPI` `OpenAI GPT-4 Vision` `Docker` `PostgreSQL` `Redis` `RabbitMQ`
 
-🔗 [GitHub](https://github.com/Estelle-Lee/Smishing-Filter) · [YouTube 데모](https://www.youtube.com/watch?v=hXHGs1FBzZ4)
+[GitHub](https://github.com/Estelle-Lee/Smishing-Filter) · [YouTube 데모](https://www.youtube.com/watch?v=hXHGs1FBzZ4)
 
 ---
 
-### SheCanCode 해커톤 &nbsp;|&nbsp; 2024.03 &nbsp;·&nbsp; 🏆 종합 2등
+### SheCanCode 해커톤 &nbsp;|&nbsp; 2024.03 &nbsp;·&nbsp; 종합 2등
 
 직장 내 포용력 증진 주제 웹 서비스(KidKode) 개발.
 
@@ -145,6 +145,8 @@
 - 6시간 제한 내 웹 서비스 기획·개발 완료 및 심사위원 대상 발표 진행
 
 **사용 기술** &nbsp; `JavaScript` `React(JSX)` `HTML` `Figma`
+
+[GitHub](https://github.com/Estelle-Lee/KidKode-SheCanCode-Hackathon)
 
 ---
 
@@ -164,17 +166,34 @@
 
 ---
 
-## 📚 이전 경력
+## 학업 및 학습 프로젝트
+
+GitHub에 공개된 석사 과정 및 부트캠프 학습 결과물입니다.
+
+- **[MSc IT Team Project](https://github.com/Estelle-Lee/MSc-IT-Team-Project)** &nbsp;·&nbsp; A+
+  글래스고 대학 석사 필수 팀 프로젝트. 기획~개발~테스트 전 과정을 팀 기반으로 수행.
+- **[Advanced Programming](https://github.com/Estelle-Lee/Advanced-Programming)** &nbsp;·&nbsp; A
+  석사 고급 프로그래밍 과목 개인 과제.
+- **[Django CityLocations](https://github.com/Estelle-Lee/django_cityloc_pkg_Estelle-Lee)**
+  부트캠프 과정에서 Django의 앱 구조(INSTALLED_APPS·URLconf 연동)와 설치형 패키지 구성을 학습하며 구현. `Python` `Django`
+- **[Bus Booking Automation](https://github.com/Estelle-Lee/bus_booking_automation_app)**
+  Nucamp 부트캠프 최종 개인 프로젝트. `Python` `PostgreSQL`
+- **[Mozilla Hubs (논문 프로젝트)](https://github.com/Estelle-Lee/hubs)**
+  석사 졸업 논문 주제였던 가상공간 접근성 향상 연구를 위해 Mozilla Hubs를 포크하여 작업.
+
+---
+
+## 이전 경력
 
 - **이화자동차정비센타** (2018.01~2018.08) — 사이트 운영·DB 백업·관리 `JavaScript` `PHP` `MySQL` `HTML`
 - **mTV** (2016.06~2016.08, 인턴) — 병상용 TV·스마트비전 서비스 기획 및 구성 (메디컬 ICT)
 
 ---
 
-## 🎓 교육 및 학력
+## 교육 및 학력
 
 - **University of Glasgow** — MSc Software Development (2019.09~2021.01)
-  - 논문: Mozilla Hubs 가상공간 시각장애인 접근성 향상 연구
+  - 논문: Mozilla Hubs 가상공간 시각장애인 접근성 향상 연구 ([repo](https://github.com/Estelle-Lee/hubs))
 - **Nucamp** — Python·SQL·DevOps 부트캠프 수료 (2023.10~2024.03)
-  - PostgreSQL, Docker, AWS/Azure/GCP 가상환경, Git 기반 CI/CD
+  - PostgreSQL, Docker, AWS/Azure/GCP 가상환경, Git 기반 CI/CD 학습
 - **서울여자대학교** — 콘텐츠디자인학과 졸업 (2012.01~2017.02)
