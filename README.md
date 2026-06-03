@@ -16,6 +16,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -27,9 +28,25 @@
 
 ### 📂 주요 프로젝트
 
-**Smishing Filter** — AI 기반 스미싱 탐지·리스크 평가 API (HackSeoul 2025, 솔로 개발)
+**🛡 [Smishing Filter](https://github.com/Estelle-Lee/Smishing-Filter)** — AI 기반 스미싱 탐지·리스크 평가 API · *HackSeoul 2025, 솔로 개발*
 FastAPI + OpenAI GPT-4 Vision으로 문자·이미지 내 악성 의도를 분석하는 멀티모달 보안 API. Docker·RabbitMQ·Redis 기반 비동기 인프라 설계.
-🔗 [GitHub](https://github.com/Estelle-Lee/Smishing-Filter) · [데모 영상](https://www.youtube.com/watch?v=hXHGs1FBzZ4)
+`Python` `FastAPI` `GPT-4 Vision` `Docker` `Redis` `RabbitMQ` · [▶ 데모 영상](https://www.youtube.com/watch?v=hXHGs1FBzZ4)
+
+**🏆 [KidKode](https://github.com/Estelle-Lee/KidKode-SheCanCode-Hackathon)** — 직장 내 포용력 증진 웹 서비스 · *SheCanCode 해커톤 종합 2등*
+6시간 제한 내 기획·개발·발표 완수. 서비스 기획 참여 및 로그인 이후 화면 개발, Git 기반 협업·병합.
+`JavaScript` `React` `HTML` `Figma`
+
+**👥 [MSc IT Team Project](https://github.com/Estelle-Lee/MSc-IT-Team-Project)** — 글래스고 대학 석사 필수 팀 프로젝트 · *A+*
+팀 기반 소프트웨어 개발 전 과정(기획~개발~테스트) 수행.
+
+**💡 [Advanced Programming](https://github.com/Estelle-Lee/Advanced-Programming)** — 글래스고 대학 석사 개인 과제 · *A*
+고급 프로그래밍 개념을 적용한 개인 구현 과제.
+
+**🌐 [Django CityLocations](https://github.com/Estelle-Lee/django_cityloc_pkg_Estelle-Lee)** — Django 앱 구조·패키징 학습 프로젝트
+부트캠프 과정에서 Django의 앱 구조(INSTALLED_APPS·URLconf 연동)와 설치형 패키지 구성을 학습하며 구현.
+`Python` `Django`
+
+> 그 외 프로젝트는 [Repositories](https://github.com/Estelle-Lee?tab=repositories)에서 확인하실 수 있습니다.
 
 ---
 
