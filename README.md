@@ -1,3 +1,5 @@
+**🇰🇷 한국어** | [🇬🇧 English](./README.en.md)
+
 # 이보경 (Bokyung Estelle Lee)
 **백엔드 엔지니어**
 
