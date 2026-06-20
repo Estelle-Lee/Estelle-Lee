@@ -2,22 +2,24 @@
 
 # Career History
 
-> **Bokyung Estelle Lee** · Backend Engineer
+> **Bokyung Lee** · Backend Engineer — System Automation · Performance Optimization
 > 📧 bokyunglee33@gmail.com · 🔗 [GitHub](https://github.com/Estelle-Lee) · [LinkedIn](https://www.linkedin.com/in/bokyung-estelle-lee/) · [Portfolio](https://www.notion.so/bokyung93/18f6ed8e97b4801187c1ce7371b5e820)
 
 ---
 
 ## About
 
-A backend engineer with a B.Sc. from a science/engineering faculty (coursework in OOP, Java, C/C++, and data structures) and an MSc in Software Development from the University of Glasgow, completed with Distinction. I specialize in designing complex business logic and diagnosing and optimizing system performance through data-driven analysis. While building a next-generation learning platform (LXP) and performing heterogeneous DBMS migration, I **improved core query performance by ~85%** and achieved a 0% load-failure rate under 2,000 concurrent users. I have addressed a broad range of system- and data-pipeline problems, including FFMPEG-based media processing, KakaoTalk notification automation, and an xAPI/LRS learning-data collection environment.
+A backend engineer who redesigns repetitive operations into automated structures and resolves system bottlenecks through data-driven diagnosis. I have built a messaging automation engine that eliminated manual per-school operations, along with heterogeneous system integration modules (acting as DB agents and API middleware) and a media-processing automation pipeline. Through APM and execution-plan analysis, I **improved core query performance by ~85%**, achieved a **0% load-failure rate** under 2,000 concurrent users, and performed a zero-downtime Oracle → Tibero migration.
+
+I hold a B.Sc. from a science/engineering faculty (coursework in OOP, Java, C/C++, and data structures) and an MSc in Software Development from the University of Glasgow, completed with Distinction. I aim to find root causes in the data rather than treat symptoms, and I am growing toward designing stable, efficient platforms.
 
 ### Core Strengths
-- DB migration and performance optimization
-- Backend architecture and system enhancement
-- Media and process automation
+- System automation and heterogeneous system integration
+- Performance optimization and system stability
+- DB migration (zero-downtime Oracle → Tibero)
 - Learning-data pipeline design (xAPI / LRS)
-- Web security and system stability
-- Global collaboration and academic background
+- Media processing automation
+- Web security · global collaboration
 
 ### Tech Stack
 
@@ -34,39 +36,36 @@ A backend engineer with a B.Sc. from a science/engineering faculty (coursework i
 
 ### DUNET Co., Ltd. (Dong-A Media Group affiliate) &nbsp;|&nbsp; R&D Center · Engineer (Assistant Manager) &nbsp;|&nbsp; Jun 2024 – Present
 
-Developing a next-generation learning experience platform (LXP) for university consortiums and operating high-availability systems, covering performance optimization, media processing, system automation, and security.
+Developing and operating systems for university consortiums, covering system automation/integration, performance optimization, data pipelines, and security.
 
 ---
 
-#### 1. Next-Generation Learning Experience Platform (LXP) — Development & Operations &nbsp;·&nbsp; Oct 2025 – Present
+#### 1. KakaoTalk Notification Automation Engine & Heterogeneous System Integration &nbsp;·&nbsp; Jul 2025 – Present
 
-**Overview** &nbsp; Designed, developed, and operated the core modules of an LXP for university consortiums across multiple universities
+**Overview** &nbsp; Built a messaging engine that integrates heterogeneous systems and standardizes/automates per-school notifications, eliminating manual operations
 
 **Key Work**
-- Designed and developed LXP core modules and established technical standards
-- Built and deployed the LXP end-to-end for the Hanyang University foundational-convergence consortium (2,000 users; 20+ universities operating on a single site via credit exchange) and completed a load test at 2,000 concurrent users
-- Took full ownership of LXP construction and system stabilization for multiple universities (Wonkwang, Daedong, Busan Catholic, Konyang — ~200 users each)
-- Maintained and extended the SELC credit-exchange consortium system (2,000+ users, 20+ universities)
+- Built per-platform KakaoTalk notification API/DB integration and an admin dispatch system for BLU3 (Jangan Univ.) and BLU5 (Wonkwang Univ.)
+- Designed and tested dispatch scenarios and procedures optimized for educational operations, such as automated alerts for at-risk learners
+- Developed heterogeneous system integration modules acting as DB agents and API middleware
+- Created a shared Excel template and parameter spec for notification-template registration, provided to schools as a standard with guidelines
 
-**Stack** &nbsp; `Java` `Spring Boot` `Oracle` `Tibero`
+**Stack** &nbsp; `Java` `Spring Boot` `REST API`
 
-**Impact** &nbsp; LXP architecture design and core module development contributed to **winning 5 new university contracts**
+**Impact** &nbsp; The notification feature was specified as a key feature in new contracts, contributing to **winning new school adoption deals**
 
 ---
 
-#### 2. xAPI/LRS Learning-Data Collection & Storage Environment (TFT Lead) &nbsp;·&nbsp; Aug 2024 – May 2025
+#### 2. FFMPEG-Based Media Processing Automation Pipeline &nbsp;·&nbsp; Mar 2025 – Present
 
-**Overview** &nbsp; Led a task force to adopt a Learning Record Store (ADL LRS) for collecting and storing learning-activity data in the xAPI standard
+**Overview** &nbsp; Implemented video-encoding automation and streaming optimization logic
 
 **Key Work**
-- Led the ADL LRS adoption task force: analyzed the system, built the test environment, and drove interim reporting
-- Built the LRS on a live server with Docker; completed Tin Can API / xAPI metric configuration and learning-activity (Statement) transmission tests
-- Resolved ADL LRS technical issues, documented server conf settings, and produced Notion-based guidelines for the team
-- Applied OAuth authentication to set up a basic admin access environment
+- Designed and built single-classroom and admin batch video-encoding logic with Java/FFMPEG and optimized streaming
+- Diagnosed a server-side library dependency conflict and resolved the environment issue at its root by switching to a ProcessBuilder approach
+- Currently building an agent-API-based media processing module to replace login/integration errors in an external video solution (Panopto)
 
-**Stack** &nbsp; `Python` `Docker` `xAPI` `Tin Can API` `ADL LRS` `OAuth`
-
-**Impact** &nbsp; The LRS capability was packaged into a **learning-data collection product, now integrated into the LXP and actively sold**
+**Stack** &nbsp; `Java` `FFMPEG` `ProcessBuilder`
 
 ---
 
@@ -82,7 +81,7 @@ Developing a next-generation learning experience platform (LXP) for university c
 
 **Stack** &nbsp; `Jennifer (APM)` `Oracle` `Tibero` `Query Optimization`
 
-**Impact** &nbsp; Query time reduced **from 6.0s to 0.9s (~85% faster)**, significant CPU/Cost reduction, and **0% load-failure rate** under a 2,000 concurrent-user load test
+**Impact** &nbsp; Query time reduced **from 6.0s to 0.9s (~85% faster)**, significant CPU/Cost reduction, and **0% load-failure rate** under a 2,000 concurrent-user load test — resolved structurally without adding resources
 
 ---
 
@@ -114,32 +113,35 @@ Developing a next-generation learning experience platform (LXP) for university c
 
 ---
 
-#### 6. KakaoTalk Notification Automation Engine & System Integration (SI) &nbsp;·&nbsp; Jul 2025 – Present
+#### 6. xAPI/LRS Learning-Data Collection & Storage Environment (TFT Lead) &nbsp;·&nbsp; Aug 2024 – May 2025
 
-**Overview** &nbsp; Built a messaging engine that integrates heterogeneous systems and standardizes/automates per-school notifications
+**Overview** &nbsp; Led a task force to adopt a Learning Record Store (ADL LRS) for collecting and storing learning-activity data in the xAPI standard
 
 **Key Work**
-- Built per-platform KakaoTalk notification API/DB integration and an admin dispatch system for BLU3 (Jangan Univ.) and BLU5 (Wonkwang Univ.)
-- Designed and tested dispatch scenarios and procedures optimized for educational operations, such as automated alerts for at-risk learners
-- Developed heterogeneous system integration modules acting as DB agents and API middleware
-- Created a shared Excel template and parameter spec for notification-template registration, provided to schools as a standard with guidelines
+- Led the ADL LRS adoption task force: analyzed the system, built the test environment, and drove interim reporting
+- Built the LRS on a live server with Docker; completed Tin Can API / xAPI metric configuration and learning-activity (Statement) transmission tests
+- Resolved ADL LRS technical issues, documented server conf settings, and produced Notion-based guidelines for the team
+- Applied OAuth authentication to set up a basic admin access environment
 
-**Stack** &nbsp; `Java` `Spring Boot` `REST API`
+**Stack** &nbsp; `Python` `Docker` `xAPI` `Tin Can API` `ADL LRS` `OAuth`
 
-**Impact** &nbsp; The notification feature was specified as a key feature in new contracts, contributing to **winning new school adoption deals**
+**Impact** &nbsp; The LRS capability was packaged into a **learning-data collection product, now integrated into the platform and actively sold**
 
 ---
 
-#### 7. FFMPEG-Based Media Processing Engine &nbsp;·&nbsp; Mar 2025 – Present
+#### 7. Next-Generation Learning Experience Platform (LXP) — Development & Operations &nbsp;·&nbsp; Oct 2025 – Present
 
-**Overview** &nbsp; Implemented video-encoding automation and streaming optimization logic
+**Overview** &nbsp; Designed, developed, and operated the core modules of an LXP for university consortiums across multiple universities
 
 **Key Work**
-- Designed and built single-classroom and admin batch video-encoding logic with Java/FFMPEG and optimized streaming
-- Discovered a server-side library dependency conflict and resolved the environment issue by switching to a ProcessBuilder approach
-- Currently building an agent-API-based media processing module to replace login/integration errors in an external video solution (Panopto)
+- Designed and developed LXP core modules and established technical standards
+- Built and deployed the LXP end-to-end for the Hanyang University foundational-convergence consortium (2,000 users; 20+ universities operating on a single site via credit exchange) and completed a load test at 2,000 concurrent users
+- Took full ownership of LXP construction and system stabilization for multiple universities (Wonkwang, Daedong, Busan Catholic, Konyang — ~200 users each)
+- Maintained and extended the SELC credit-exchange consortium system (2,000+ users, 20+ universities)
 
-**Stack** &nbsp; `Java` `FFMPEG` `ProcessBuilder`
+**Stack** &nbsp; `Java` `Spring Boot` `Oracle` `Tibero`
+
+**Impact** &nbsp; LXP architecture design and core module development contributed to **winning 5 new university contracts**
 
 ---
 
@@ -182,7 +184,20 @@ Developing a next-generation learning experience platform (LXP) for university c
 
 ---
 
-## Featured Projects (External)
+## Featured Projects (External & Personal)
+
+### LXP Video Encoding Agent (Personal Project, In Progress) &nbsp;|&nbsp; Jun 2026 – Present
+
+Building an independent agent in Go that automatically diagnoses video codec-policy violations and re-encodes based on policy — originating from my hands-on FFMPEG media-processing experience at work.
+
+- Designed a decentralized architecture (no central DB or job queue) reflecting a data-sovereignty constraint: each school deploys independently and school data never leaves its boundary
+- Implemented a 7-item codec-policy diagnostics module based on ffprobe metadata (H.264 / AAC-LC / MP4 / yuv420p / CFR 30fps, etc.)
+- Developing a pipeline that auto-generates ffmpeg commands, transcodes, and re-verifies when a policy violation is found
+- Designed structured logging to collect metrics such as transcoding time and policy-compliance (skip) rate
+
+**Stack** &nbsp; `Go` `FFMPEG` `ffprobe`
+
+---
 
 ### HackSeoul 2025 (hosted by Coupang x AngelHack) &nbsp;|&nbsp; Nov 2025
 
@@ -190,10 +205,10 @@ At a 24-hour global hackathon held at Coupang HQ (8 countries participating), I 
 
 - Designed and built a high-performance RESTful API with FastAPI (solo development and architecture design)
 - Implemented multimodal logic using OpenAI GPT-4 Vision API to simultaneously analyze malicious intent in message text and screenshot images
-- Designed an asynchronous, scalable backend infrastructure combining Docker, Redis, and RabbitMQ (RabbitMQ was used in this hackathon)
+- Designed an asynchronous, scalable backend infrastructure with Docker and Redis (RabbitMQ was used in this hackathon)
 - Developed a quantitative risk-score logic based on malicious-URL detection and sender-pattern analysis
 
-**Stack** &nbsp; `Python 3.12` `FastAPI` `OpenAI GPT-4 Vision` `Docker` `PostgreSQL` `Redis` `RabbitMQ`
+**Stack** &nbsp; `Python 3.12` `FastAPI` `OpenAI GPT-4 Vision` `Docker` `PostgreSQL` `Redis` `RabbitMQ (hackathon)`
 
 [GitHub](https://github.com/Estelle-Lee/Smishing-Filter) · [YouTube Demo](https://www.youtube.com/watch?v=hXHGs1FBzZ4)
 
