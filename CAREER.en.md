@@ -136,7 +136,7 @@ Developing and operating systems for university consortiums, covering system aut
 **Key Work**
 - Designed and developed LXP core modules and established technical standards
 - Built and deployed the LXP end-to-end for the Hanyang University foundational-convergence consortium (2,000 users; 20+ universities operating on a single site via credit exchange) and completed a load test at 2,000 concurrent users
-- Took full ownership of LXP construction and system stabilization for multiple universities 
+- Took full ownership of LXP construction and system stabilization for multiple universities (Wonkwang, Daedong, Busan Catholic, Konyang — ~200 users each)
 - Maintained and extended the SELC credit-exchange consortium system (2,000+ users, 20+ universities)
 
 **Stack** &nbsp; `Java` `Spring Boot` `Oracle` `Tibero`
@@ -169,7 +169,7 @@ Developing and operating systems for university consortiums, covering system aut
 
 **Stack** &nbsp; `Java` `Oracle` `eGovFrame`
 
-
+---
 
 #### 10. Multi-Client LMS Build & Maintenance &nbsp;·&nbsp; Jun 2024 – Present
 
@@ -287,4 +287,3 @@ Master's coursework and bootcamp deliverables published on GitHub.
 
 - **SQLD (SQL Developer)** — Korea Data Agency (Dec 2024)
 - **Engineer Information Processing** — Written exam passed
-- - Took full ownership of LXP construction and system stabilization for multiple universities (Wonkwang, Daedong, Busan Catholic, Konyang — ~200 users each)
