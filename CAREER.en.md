@@ -287,3 +287,4 @@ Master's coursework and bootcamp deliverables published on GitHub.
 
 - **SQLD (SQL Developer)** — Korea Data Agency (Dec 2024)
 - **Engineer Information Processing** — Written exam passed
+- - Took full ownership of LXP construction and system stabilization for multiple universities (Wonkwang, Daedong, Busan Catholic, Konyang — ~200 users each)
