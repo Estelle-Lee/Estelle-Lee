@@ -286,4 +286,4 @@ Master's coursework and bootcamp deliverables published on GitHub.
 ## Certifications
 
 - **SQLD (SQL Developer)** — Korea Data Agency (Dec 2024)
-- **Engineer Information Processing** — Written exam passed
+
