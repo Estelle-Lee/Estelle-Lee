@@ -169,7 +169,7 @@ Developing and operating systems for university consortiums, covering system aut
 
 **Stack** &nbsp; `Java` `Oracle` `eGovFrame`
 
----
+
 
 #### 10. Multi-Client LMS Build & Maintenance &nbsp;·&nbsp; Jun 2024 – Present
 
