@@ -3,7 +3,7 @@
 # Career History
 
 > **Bokyung Lee** · Backend Engineer — System Automation · Performance Optimization
-> 📧 bokyunglee33@gmail.com · 🔗 [GitHub](https://github.com/Estelle-Lee) · [LinkedIn](https://www.linkedin.com/in/bokyung-estelle-lee/) · [Portfolio](https://www.notion.so/bokyung93/18f6ed8e97b4801187c1ce7371b5e820)
+> 📧 bokyunglee33@gmail.com · 🔗 [GitHub](https://github.com/Estelle-Lee) · [LinkedIn](https://www.linkedin.com/in/bokyung-estelle-lee/) · [Portfolio](https://bokyung93.notion.site/Backend-Engineering-Portfolio-3c06ed8e97b481edb852f70f40308f1e?source=copy_link)
 
 ---
 
